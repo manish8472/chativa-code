@@ -1,0 +1,16 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "Metiva socket io server",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.8.0"
+  }
+}
