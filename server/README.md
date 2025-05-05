@@ -11,4 +11,4 @@
 <P> Sever running on the PORT 5000. </P>
 
 <br/>
-<p> You can port in server.js file</p>
+<p> You can change port in server.js file</p>
